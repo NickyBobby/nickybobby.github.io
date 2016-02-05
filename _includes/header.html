@@ -1,30 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>{{ site.title }}</title>
-  <link href="/css/styles.css" rel="stylesheet">
-  <link rel="stylesheet"
-  href="http://fonts.googleapis.com/css?family=Lato:100,300,400">
-  <link href="/media/images/favicon.ico" rel="icon" type="image/x-icon" />
-</head>
-<body>
+
+
   <header class="primary-header container group">
       <h1 class="logo">
-          <a href="index.html">NRDLIFE</a>
+          <a href="/index.html">NRDLIFE</a>
       </h1>
     <h3 class="tagline">This is my life... <br> <br>This is NRDLIFE...</h3>
-    <nav class="nav primary-nav">
-      <ul>
-        <li><a href="/index.html">Home</a></li><!--
-     --><li><a href="/adventures.html">Adventures</a></li><!--
-     --><li><a href="/food.html">Food</a></li><!--
-     --><li><a href="/turing.html">Turing</a></li><!--
-     --><li><a href="/media.html">Media</a></li><!--
-     --><li><a href="/me.html">Me</a></li><!--
-     --><li><a href="/family.html">Family</a></li><!--
-   --></ul>
-    </nav>
+    {% include nav.html %}
   </header>
-</body>
-</html>

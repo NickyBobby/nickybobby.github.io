@@ -1,0 +1,14 @@
+---
+layout: default
+title: Adventures
+Permalink: /adventures/
+---
+
+    <section class="row">
+      <div class="grid">
+        <h1>{{ posts.title }}</h1>
+        <p>{{ posts | categories: 'adventures' }}</p>
+        {{ content }}
+        <!-- iterate over posts whose categories == adventure -->
+      </div>
+    </section>
