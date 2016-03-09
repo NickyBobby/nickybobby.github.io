@@ -401,3 +401,6 @@ p a {
   font-weight: 250;
   max-width: 900px;
 }
+img {
+  max-width: 50%;
+}
