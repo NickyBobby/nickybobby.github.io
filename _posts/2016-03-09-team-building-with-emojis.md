@@ -30,8 +30,8 @@ Import that picture into your image editor. And very simply, all you want to do 
 
 #### Step 3
 
-Click on your main team name in the top left part of Slack. It will take you to the Slack webpage where you simply enter in a name and upload your newly formatted image. Done. It's really that simple, folks.
+Click on your main team name in the top left part of Slack and select Customize Slack. It will take you to the Slack webpage where you simply enter in a name and upload your newly formatted image. 
 
 ![emoji creation](http://i.giphy.com/l2JJofWKKWaJDHCms.gif)
 
-Sorry Rachel ;) ![rachel](/media/images/rachel.jpg)
+Done. It's really that simple, folks. Sorry Rachel ;) ![rachel](/media/images/rachel.jpg)
