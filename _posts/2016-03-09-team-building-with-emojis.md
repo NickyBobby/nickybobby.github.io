@@ -16,21 +16,21 @@ I can't recall the second emoji that I made but I do know that within a week I h
 
 Anyway it's my personal belief that a little fun can go long way in the bonding process. Our group has bonded very tightly over the last 2-3 months (feels like 17 years though) and so can yours! If you're interested in learning how to make your own emojis in Slack, I'll take you through the process step by step.
 
-#### Step 1
+## Step 1
 
 Grab a selected screen shot of what you want to make an emoji of using `cmd-shift-4` then dragging the cursor over your <s>victim</s> subject.
 
 ![screenshot](http://i.giphy.com/3ornkdzg1JfZZEAd1e.gif)
 
-#### Step 2
+## Step 2
 
 Import that picture into your image editor. And very simply, all you want to do is is export the photo using `128px x 128px` dimensions.
 
 ![image formatting](http://i.giphy.com/3ornjKZ0XUIMYHxoHe.gif)
 
-#### Step 3
+## Step 3
 
-Click on your main team name in the top left part of Slack and select Customize Slack. It will take you to the Slack webpage where you simply enter in a name and upload your newly formatted image. 
+Click on your main team name in the top left part of Slack and select Customize Slack. It will take you to the Slack webpage where you simply enter in a name and upload your newly formatted image.
 
 ![emoji creation](http://i.giphy.com/l2JJofWKKWaJDHCms.gif)
 
