@@ -1,3 +1,12 @@
+---
+title: Team Building with Emojis
+layout: post
+date: 2016-03-09
+categories: me
+tags:  me
+---
+
+
 # Team Building with Emojis
 
 Hi, my name is Nick and for those of you who don't know me, I recently started learning web development at a great school in Denver call Turing School of Software & Design. The curriculum is extremely challenging and fast paced, but this post isn't about that at all. This post is about how I've brought people together using emojis.
