@@ -399,4 +399,5 @@ p a {
 .blog p {
   font-size: 24px;
   font-weight: 250;
+  max-width: 900px;
 }
