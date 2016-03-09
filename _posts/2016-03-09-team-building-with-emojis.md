@@ -6,7 +6,7 @@ categories: me
 tags:  me
 ---
 
-Hi, my name is Nick and for those of you who don't know me, I recently started learning web development at a great school in Denver call Turing School of Software & Design. The curriculum is extremely challenging and fast paced, but this post isn't about that at all. This post is about how I've brought people together using emojis.
+I recently started learning web development at a great school in Denver call Turing School of Software & Design. The curriculum is extremely challenging and fast paced, but this post isn't about that at all. This post is about how I've brought people together using emojis.
 
 We use a program at our school called Slack to communicate with each other. It's a great way for everyone to be on the same page while having multiple channels that cater to more specific interests. Another great thing about this program is the ability to make your own custom emojis. When I first started school, I knew other people were making their own emojis. I didn't know how they were doing it but I was anxiously waiting to get my foot in that (emoji) door.
 
